@@ -1,5 +1,8 @@
 name: GitHub Snake Game
 
+permissions:
+  contents: write
+
 on:
   schedule:
     - cron: "0 0 * * *" # runs daily at midnight UTC
@@ -13,10 +16,12 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
+      # 1️⃣ Checkout repo
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - name: Generate GitHub Contributions Snake Animations
+      # 2️⃣ Generate GitHub Contributions Snake
+      - name: Generate GitHub Snake Animations
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -27,6 +32,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      # 3️⃣ Deploy to output branch
       - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v3
         with:
