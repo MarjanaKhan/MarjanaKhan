@@ -31,6 +31,23 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarjanaKhan&theme=tokyonight" height="180"/>
 </p>
 
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MarjanaKhan&theme=radical&no-frame=true&margin-w=15&margin-h=15" />
+</p>
+
+---
+### 🛠 Fun Section:
+<p align="center">
+
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Laptop GIF" width="180px">
+  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" alt="Fixing Bugs GIF" width="180" height="180">
+</p>
+<p align="center">
+  I love building websites, optimizing code, and turning coffee into features ☕💻🚀
+</p>
+
+
 ---
 
 ## 🐍 GitHub Contributions Snake
@@ -45,17 +62,10 @@
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MarjanaKhan&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
-</p>
 
----
 
-## ⚡ Fun Fact
-I love to code late at night 🌙 and break things just to fix them again 😅  
 
----
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MarjanaKhan&color=3386C2" alt="Profile views" />
