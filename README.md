@@ -42,9 +42,6 @@
   </picture>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MarjanaKhan/MarjanaKhan/output/ocean.gif" alt="Snake GIF" />
-</p>
 
 ---
 
